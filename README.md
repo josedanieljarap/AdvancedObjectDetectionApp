@@ -5,6 +5,11 @@
 #### Description
 
 This project is a comprehensive object detection application accessible via command line and a web interface powered by Flask. Leveraging TensorFlow, TensorFlow Hub, and the EfficientDet d7 model, it processes images, detects objects, and annotates them with bounding boxes and labels.
+For example, if this image is fed into the program:
+![image](https://github.com/josedanieljarap/AdvancedObjectDetectionApp/assets/50277190/8f7e1fa5-ce60-42fc-8718-61fe25842e11)
+The program will output this processed image:
+![image](https://github.com/josedanieljarap/AdvancedObjectDetectionApp/assets/50277190/4307e586-5c95-425f-85a3-01a63eec7dd2)
+
 
 ## Project Structure
 
